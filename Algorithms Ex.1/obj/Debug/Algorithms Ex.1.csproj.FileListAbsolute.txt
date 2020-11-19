@@ -1,0 +1,10 @@
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\obj\Debug\Algorithms Ex.1.csprojAssemblyReference.cache
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\obj\Debug\Algorithms_Ex._1.Form1.resources
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\obj\Debug\Algorithms_Ex._1.Properties.Resources.resources
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\obj\Debug\Algorithms Ex.1.csproj.GenerateResource.cache
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\obj\Debug\Algorithms Ex.1.csproj.CoreCompileInputs.cache
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\bin\Debug\Algorithms Ex.1.exe.config
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\bin\Debug\Algorithms Ex.1.exe
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\bin\Debug\Algorithms Ex.1.pdb
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\obj\Debug\Algorithms Ex.1.exe
+G:\c#\algorithms\Algorithms Ex.1 solution\Algorithms Ex.1\obj\Debug\Algorithms Ex.1.pdb
